@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.26.8",
+    "@babel/preset-env": "^7.26.8",
+    "@peepso/prettier-config": "^1.0.3",
+    "@wordpress/browserslist-config": "^6.17.0",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.1",
+    "browserify-shim": "^3.8.16",
+    "prettier": "^3.5.0",
+    "uglify-js": "^3.19.3"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "browserify": {
+    "transform": [
+      "babelify",
+      "browserify-shim"
+    ]
+  },
+  "browserify-shim": {
+    "jquery": "global:jQuery",
+    "underscore": "global:_",
+    "peepso": "global:peepso",
+    "peepsodata": "global:peepsodata"
+  },
+  "browserslist": [
+    "extends @wordpress/browserslist-config"
+  ],
+  "prettier": "@peepso/prettier-config"
+}

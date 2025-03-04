@@ -1,0 +1,652 @@
+# Translation of PeepSo - Chat in Persian
+# This file is distributed under the same license as the PeepSo - Chat package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-02 11:27:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fa\n"
+"Project-Id-Version: PeepSo - Chat\n"
+
+#: templates/messages/messages.php:28 templates/messages/messages.php:102
+msgid "Focus mode"
+msgstr ""
+
+#: classes/messages.php:117
+msgid "%1$s"
+msgstr ""
+
+#: classes/configsectionmessages.php:65
+msgid "Email notification intensity"
+msgstr ""
+
+#: classes/configsectionmessages.php:59
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/configsectionmessages.php:34
+msgid "Enable \"compose\" in new page"
+msgstr ""
+
+#: templates/chat/window.php:14
+msgid "Minimize"
+msgstr ""
+
+#: classes/configsectionmessages.php:142
+msgid "Chat & Pages"
+msgstr ""
+
+#: templates/messages/messages.php:354 templates/messages/view-message.php:115
+msgid "%s to send"
+msgstr ""
+
+#: templates/messages/messages.php:250 templates/messages/view-message.php:22
+msgid "All messages"
+msgstr ""
+
+#: templates/messages/messages.php:70 templates/messages/messages.php:206
+msgid "Search..."
+msgstr ""
+
+#: templates/messages/messages.php:47 templates/messages/messages.php:48
+msgid "Unread"
+msgstr ""
+
+#: templates/messages/messages.php:43 templates/messages/messages.php:44
+msgid "All"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PeepSo"
+msgstr "PeepSo"
+
+#. Description of the plugin/theme
+msgid "Private messages and live chat"
+msgstr "پیغام خصوصی و چت زنده"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://PeepSo.com"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PeepSo Core: Chat"
+msgstr "هسته پیپ سو: چت"
+
+#: templates/messages/messages.php:365 templates/messages/view-message.php:126
+msgid "Post"
+msgstr ""
+
+#: templates/messages/messages.php:255 templates/messages/view-message.php:80
+msgid "Conversation with"
+msgstr ""
+
+#: templates/messages/messages.php:118 templates/messages/messages.php:309
+#: templates/messages/view-message.php:74
+msgid "Done"
+msgstr "انجام شد"
+
+#: templates/messages/conversation-options.php:40
+#: templates/messages/messages.php:297 templates/messages/view-message.php:61
+msgid "Leave this conversation"
+msgstr "ترک این گفتگو"
+
+#: templates/messages/conversation-options.php:38
+#: templates/messages/messages.php:295 templates/messages/view-message.php:58
+msgid "Are you sure you want to leave this conversation?"
+msgstr "آیا مطمئن هستید می خواهید این گفتگو را ترک کنید؟"
+
+#: templates/messages/conversation-options.php:19
+#: templates/messages/messages.php:110 templates/messages/messages.php:275
+#: templates/messages/messages.php:304 templates/messages/view-message.php:40
+#: templates/messages/view-message.php:69
+msgid "Add People to the conversation"
+msgstr "افزودن افراد به گفتگو"
+
+#: templates/messages/notification-popover-item.php:28
+msgid "%s ago"
+msgstr "%s پیش"
+
+#: templates/messages/mute.php:27
+msgid "Mute"
+msgstr "قطع اعلانها"
+
+#: templates/messages/mute.php:23
+msgid "until I unmute it"
+msgstr "تا زمانی که خودم مجددا فعالش کنم"
+
+#: templates/messages/mute.php:19
+msgid "a week"
+msgstr "1 هفته"
+
+#: templates/messages/mute.php:15
+msgid "a day"
+msgstr "یک روز"
+
+#: templates/messages/mute.php:11
+msgid "an hour"
+msgstr "یک ساعت"
+
+#: templates/messages/mute.php:7
+msgid "30 seconds"
+msgstr "۳۰ ثانیه"
+
+#: templates/messages/mute.php:2
+msgid "How long do you want to mute this conversation?"
+msgstr "برای چه مدت می خواهید اعلان های این مکالمه را قطع کنید؟"
+
+#: templates/messages/message-list.php:13 templates/messages/messages.php:81
+#: templates/messages/messages.php:217 templates/messages/messages.php:234
+#: templates/messages/messages.php:237
+msgid "No messages found."
+msgstr "هیچ پیغامی پیدا نشد."
+
+#: templates/messages/messages.php:71 templates/messages/messages.php:207
+msgid "Clear search"
+msgstr ""
+
+#: peepsomessages.php:410 templates/messages/list-header.php:2
+#: templates/messages/messages.php:31 templates/messages/messages.php:35
+#: templates/messages/messages.php:54 templates/messages/messages.php:58
+#: templates/messages/notification-popover-header.php:13
+msgid "New message"
+msgstr ""
+
+#: templates/messages/dialogs.php:60 templates/messages/message-new.php:62
+#: templates/messages/messages.php:115 templates/messages/messages.php:362
+#: templates/messages/view-message.php:123
+msgid "Cancel"
+msgstr "انصراف"
+
+#: templates/messages/dialogs.php:30 templates/messages/message-new.php:32
+msgid "Select Recipients"
+msgstr "انتخاب گیرندگان"
+
+#: templates/messages/dialogs.php:26 templates/messages/message-new.php:28
+msgid "Recipients"
+msgstr "گیرندگان"
+
+#: templates/messages/dialogs.php:13 templates/messages/dialogs.php:37
+#: templates/messages/message-new.php:15 templates/messages/message-new.php:39
+msgid "Recipient"
+msgstr "گیرنده"
+
+#: templates/messages/dialogs.php:8
+msgid "Write Message"
+msgstr "نوشتن پیغام"
+
+#: templates/messages/conversation-notice.php:7
+msgid "%s left the conversation"
+msgstr ""
+
+#: templates/messages/conversation-notice-chat.php:11
+#: templates/messages/conversation-notice.php:11
+msgid "%s created a new group conversation"
+msgstr "%s یک گفتگوی گروهی جدید ایجاد کرد"
+
+#: templates/messages/conversation-notice-chat.php:7
+msgid "%s has left the conversation"
+msgstr "%s گفتگو را ترک کرده است"
+
+#: templates/chat/window.php:52
+msgid "You turned off chat for this conversation but you can still send a message."
+msgstr "شما چت را برای این مکالمه خاموش کرده اید اما همچنان می توانید پیغام بفرستید."
+
+#: templates/chat/window.php:51
+msgid "Unmute"
+msgstr "لغو حالت سکوت"
+
+#: templates/chat/window.php:51
+msgid "This conversation is muted. New chat tabs will not pop up and you will not receive notifications."
+msgstr "این گفتگو بیصدا شده است. تب های چت جدید به شکل پاپ آپ گشوده نخواهد شد و شما اعلان ها را دریافت نخواهید کرد."
+
+#: templates/chat/window.php:39 templates/messages/conversation-options.php:14
+#: templates/messages/messages.php:270 templates/messages/view-message.php:35
+msgid "Block this user"
+msgstr ""
+
+#: templates/chat/window.php:36
+msgid "View full conversation"
+msgstr "مشاهده کامل گفتگو"
+
+#: templates/chat/window.php:11 templates/messages/messages.php:261
+#: templates/messages/view-message.php:27
+msgid "Options"
+msgstr ""
+
+#: templates/chat/window-input.php:4 templates/messages/dialogs.php:48
+#: templates/messages/message-new.php:50 templates/messages/messages.php:149
+#: templates/messages/messages.php:336 templates/messages/view-message.php:98
+msgid "Write a message..."
+msgstr ""
+
+#: templates/chat/sidebar.php:7
+msgid "more"
+msgstr "بیشتر"
+
+#: templates/chat/sidebar-item.php:8 templates/chat/window.php:17
+msgid "Close"
+msgstr ""
+
+#: templates/chat/sidebar-item.php:5 templates/chat/window.php:8
+msgid "Loading"
+msgstr "در حال بارگذاری"
+
+#: templates/chat/send-files.php:22 templates/chat/send-message.php:7
+#: templates/chat/send-photos.php:11 templates/messages/messages.php:409
+msgid "just now"
+msgstr "همین حالا"
+
+#: peepsomessages.php:1144
+msgid "Start a chat"
+msgstr "شروع یک گفتگو"
+
+#: peepsomessages.php:1057
+msgid "Messages and Chat"
+msgstr "پیغام و گفتگو"
+
+#: peepsomessages.php:1046
+msgid "Message and Chat"
+msgstr "پیغام و گفتگو"
+
+#: peepsomessages.php:1028
+msgid "Open minimized chat window for new message"
+msgstr "گشودن پنجره چت بهینه شده برای پیغام جدید"
+
+#: peepsomessages.php:1021
+msgid "Enable Chat (Messages will still work if you disable Chat)"
+msgstr "فعال کردن چت (در صورت خاموش کردن پیغام ها همچنان فعال خواهند بود)"
+
+#: peepsomessages.php:962
+msgid "Someone sent me a new message"
+msgstr ""
+
+#: peepsomessages.php:878 templates/messages/dialogs.php:61
+#: templates/messages/message-new.php:63
+msgid "Send Message"
+msgstr "ارسال پیغام"
+
+#: peepsomessages.php:700
+msgid "Text"
+msgstr ""
+
+#: peepsomessages.php:689
+msgid "Your message..."
+msgstr "پیغام شما..."
+
+#: peepsomessages.php:631
+msgid "Search PeepSo Messages Inline"
+msgstr "جستجوی پیغام درون خطی PeepSo"
+
+#: peepsomessages.php:630
+msgid "Update PeepSo Message Inline"
+msgstr "بروزرسانی پیغام درون خطی PeepSo"
+
+#: peepsomessages.php:629
+msgid "Edit PeepSo Message Inline"
+msgstr "ویرایش پیغام درون خطی PeepSo"
+
+#: peepsomessages.php:627 peepsomessages.php:628
+msgid "Add New PeepSo Message Inline"
+msgstr "افزودن پیغام درون خطی جدید PeepSo"
+
+#: peepsomessages.php:626
+msgid "View PeepSo Message Inline"
+msgstr "مشاهده پیغام های درون خطی PeepSo"
+
+#: peepsomessages.php:625
+msgid "All PeepSo Messages Inline"
+msgstr "تمام پیغام های درون خطی PeepSo"
+
+#: peepsomessages.php:624
+msgid "PeepSo Messages Inline:"
+msgstr "پیغام های درون خطی PeepSo:"
+
+#: peepsomessages.php:623 peepsomessages.php:639 peepsomessages.php:640
+msgid "PeepSo Messages Inline"
+msgstr "پیغام های درون خطی PeepSo"
+
+#: peepsomessages.php:622
+msgctxt "PeepSo Message Inline"
+msgid "PeepSo Message Inline"
+msgstr "پیغام های درون خطی PeepSo"
+
+#: peepsomessages.php:621
+msgctxt "PeepSo Messages Inline"
+msgid "PeepSo Messages Inline"
+msgstr "پیغام های درون خطی PeepSo"
+
+#: peepsomessages.php:596 peepsomessages.php:635
+msgid "message"
+msgstr "پیغام"
+
+#: peepsomessages.php:595 peepsomessages.php:634
+msgid "sent"
+msgstr "فرستاده شد"
+
+#: peepsomessages.php:594 peepsomessages.php:633
+msgid "Not found in Trash"
+msgstr "در سطل زباله یافت نشد"
+
+#: peepsomessages.php:593 peepsomessages.php:632
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: peepsomessages.php:592
+msgid "Search PeepSo Messages"
+msgstr "جستجوی پیغام های PeepSo"
+
+#: peepsomessages.php:591
+msgid "Update PeepSo Message"
+msgstr "بروزرسانی پیغام PeepSo"
+
+#: peepsomessages.php:590
+msgid "Edit PeepSo Message"
+msgstr "ویرایش پیغام PeepSo"
+
+#: peepsomessages.php:588 peepsomessages.php:589
+msgid "Add New PeepSo Message"
+msgstr "افزودن پیغام جدید PeepSo"
+
+#: peepsomessages.php:587
+msgid "View PeepSo Message"
+msgstr "مشاهده پیغام PeepSo"
+
+#: peepsomessages.php:586
+msgid "All PeepSo Messages"
+msgstr "تمام پیغام های PeepSo"
+
+#: peepsomessages.php:585
+msgid "PeepSo Messages:"
+msgstr "پیغام های PeepSo:"
+
+#: peepsomessages.php:584 peepsomessages.php:600 peepsomessages.php:601
+msgid "PeepSo Messages"
+msgstr "پیغام های PeepSo"
+
+#: peepsomessages.php:583
+msgctxt "PeepSo Message"
+msgid "PeepSo Message"
+msgstr "پیغام PeepSo"
+
+#: peepsomessages.php:582
+msgctxt "PeepSo Messages"
+msgid "PeepSo Messages"
+msgstr "پیغام های PeepSo"
+
+#: peepsomessages.php:549
+msgid "Turn off chat"
+msgstr "خاموش کردن گفتگو"
+
+#: peepsomessages.php:548 templates/chat/window.php:29
+msgid "Turn on chat"
+msgstr "روشن کردن گفتگو"
+
+#: peepsomessages.php:545
+msgid "%s and %s"
+msgstr "%s و %s"
+
+#: peepsomessages.php:502
+msgid "Are you sure want to delete these messages?"
+msgstr ""
+
+#: peepsomessages.php:501
+msgid "Please select your bulk action."
+msgstr "عمل دسته جمعی را انتخاب کنید."
+
+#: peepsomessages.php:500
+msgid "Please select at least one message for bulk action."
+msgstr "لطفا حداقل یک پیغام را برای اقدام جمعی انتخاب کنید."
+
+#: peepsomessages.php:482 templates/messages/conversation-options.php:12
+msgid "Are you sure want to block this user?"
+msgstr ""
+
+#: peepsomessages.php:481 peepsomessages.php:553 templates/chat/window.php:24
+#: templates/messages/conversation-options.php:25
+#: templates/messages/conversation-options.php:27
+#: templates/messages/messages.php:281 templates/messages/view-message.php:47
+msgid "Don't send read receipt"
+msgstr "عدم ارسال رسید خواندن"
+
+#: peepsomessages.php:480 peepsomessages.php:552
+#: templates/messages/conversation-options.php:24
+#: templates/messages/conversation-options.php:27
+#: templates/messages/messages.php:281 templates/messages/view-message.php:47
+msgid "Send read receipt"
+msgstr "ارسال رسید خواندن"
+
+#: peepsomessages.php:478 peepsomessages.php:551
+#: templates/messages/conversation-options.php:31
+#: templates/messages/conversation-options.php:34
+#: templates/messages/messages.php:290 templates/messages/view-message.php:54
+msgid "Unmute conversation"
+msgstr "فعالسازی مجدد اعلان های مکالمه"
+
+#: peepsomessages.php:477 peepsomessages.php:550 templates/chat/window.php:33
+#: templates/messages/conversation-options.php:32
+#: templates/messages/conversation-options.php:34
+#: templates/messages/messages.php:290 templates/messages/view-message.php:54
+msgid "Mute conversation"
+msgstr "قطع اعلان های مکالمه"
+
+#: peepsomessages.php:476
+msgid "Send"
+msgstr "ارسال"
+
+#: peepsomessages.php:367
+msgid "Get it now!"
+msgstr "اکنون دریافت کنید!"
+
+#: peepsomessages.php:365
+msgid "The %s plugin requires the PeepSo plugin to be installed and activated."
+msgstr "افزونه %s برای نصب و فعالسازی به افزونه PeepSo نیاز دارد."
+
+#: peepsomessages.php:238
+msgid "Messages & Chat"
+msgstr "پیغام و گفتگو"
+
+#: peepsomessages.php:151
+msgid "Unread messages"
+msgstr ""
+
+#: classes/messagesshortcode.php:36
+msgid "User messages"
+msgstr ""
+
+#: classes/messagesshortcode.php:36
+msgctxt "Page listing"
+msgid "PeepSo"
+msgstr ""
+
+#: classes/messagesshortcode.php:32
+msgid "Displays the list of all chats (messages) and handles the single conversation views."
+msgstr ""
+
+#: classes/messagesmodel.php:303 classes/messagesmodel.php:352
+#: classes/messagesmodel.php:534 classes/messagesmodel.php:555
+msgid "You received a new message"
+msgstr ""
+
+#: classes/messagesmodel.php:260 classes/messagesmodel.php:394
+msgid "No participants added."
+msgstr "هیچ شرکت کننده ای اضافه نشده."
+
+#: classes/messagesmodel.php:257 classes/messagesmodel.php:390
+msgid "No author set."
+msgstr "هیچ نویسنده ای تعیین نشد."
+
+#: classes/messagesajax.php:459
+msgid "person"
+msgid_plural "people"
+msgstr[0] "شخص"
+msgstr[1] "اشخاص"
+
+#: classes/messagesajax.php:457
+msgid "%1$s %2$s added to the conversation"
+msgstr "%1$s %2$s به گفتگو اضافه شد"
+
+#: classes/messagesajax.php:402
+msgid "Created a new group conversation"
+msgstr "ایجاد یک گفتگوی گروهی جدید"
+
+#: classes/messagesajax.php:344
+msgid "No notifications."
+msgstr "اعلانی موجود نیست."
+
+#: classes/messagesajax.php:75
+msgid "Failed to send message."
+msgstr "فرستادن پیام ناموفق بود."
+
+#: classes/messagesajax.php:68
+msgid "You are not part of this conversation."
+msgstr "شما بخشی از این گفتگو نیستید."
+
+#: classes/messagesajax.php:40 classes/messagesajax.php:78
+msgid "Message sent."
+msgstr "پیغام ارسال شد."
+
+#: classes/messagesadmin.php:36
+msgid "This will be sent to a user when a new message is received."
+msgstr "این به کاربر در هنگام دریافت یک پیغام جدید ارسال می گردد."
+
+#: classes/messagesadmin.php:35
+msgid "New message email"
+msgstr ""
+
+#: classes/messages.php:482
+msgid "You: "
+msgstr "شما: "
+
+#: classes/messages.php:447 peepsomessages.php:546 peepsomessages.php:547
+msgid "%s and %d other"
+msgid_plural "%s and %d others"
+msgstr[0] "%s و %d دیگر"
+msgstr[1] "%s و %d دیگران"
+
+#: classes/messages.php:300
+msgid "Message from %s"
+msgstr "پیغام از طرف %s"
+
+#: classes/messages.php:184
+msgid "created a new group conversation"
+msgstr ""
+
+#: classes/messages.php:180
+msgid "left the conversation"
+msgstr ""
+
+#: classes/messages.php:147
+msgid "<span>%1$d</span>-<span>%2$d</span> of <span class=\"ps-tip ps-tip--inline\" aria-label=\""
+msgstr ""
+
+#: classes/messages.php:147
+msgid "Number of all messages"
+msgstr ""
+
+#: classes/messages.php:122
+msgid "%1$s and %2$s"
+msgstr "%1$s و %2$s"
+
+#: classes/messages.php:89
+msgid "and"
+msgstr "و"
+
+#: classes/messages.php:74
+msgid " other"
+msgid_plural " others"
+msgstr[0] " دیگر"
+msgstr[1] " دیگران"
+
+#: classes/messages.php:42 templates/messages/conversation-message.php:41
+#: templates/messages/conversation-message.php:42
+msgid "Delete"
+msgstr ""
+
+#: classes/messages.php:41
+msgid "Mark as Unread"
+msgstr "علامتگذاری بعنوان خوانده نشده"
+
+#: classes/messages.php:40
+msgid "Mark as Read"
+msgstr "علامت گذاری به عنوان خوانده شده"
+
+#: classes/messages.php:39
+msgid "Bulk Actions"
+msgstr "اقدام دسته جمعی"
+
+#: classes/configsectionmessages.php:98 peepsomessages.php:235
+msgid "Chat"
+msgstr "گفت و گو"
+
+#: classes/configsectionmessages.php:135
+msgid "Enable on pages"
+msgstr ""
+
+#: classes/configsectionmessages.php:132
+msgid "List of pages in which chat windows <strong>should</strong> appear, one page per line.<br />Examples:<br /><strong>/</strong> (Homepage)<br /><strong>/profile</strong> (Profile page)"
+msgstr ""
+
+#: classes/configsectionmessages.php:128
+msgid "Disable on pages"
+msgstr ""
+
+#: classes/configsectionmessages.php:125
+msgid "List of pages in which chat windows <strong>should not</strong> appear, one page per line.<br />Examples:<br /><strong>/</strong> (Homepage)<br /><strong>/profile</strong> (Profile page)"
+msgstr ""
+
+#: classes/configsectionmessages.php:121
+msgid "Page-restriction mode"
+msgstr ""
+
+#: classes/configsectionmessages.php:118
+msgid "Select mode in which chat should or should not appear."
+msgstr ""
+
+#: classes/configsectionmessages.php:114
+msgid "Show only on selected pages"
+msgstr ""
+
+#: classes/configsectionmessages.php:113
+msgid "Disable on selected pages"
+msgstr ""
+
+#: classes/configsectionmessages.php:92
+msgid "Forced Refresh"
+msgstr ""
+
+#: classes/configsectionmessages.php:89
+msgid "Send an extra ajax call every 30 seconds to make sure that messages and chat is synchronized between multiple open browser windows or devices."
+msgstr "ارسال تماس ای‌جاکس اضافی ظرف هر ۳۰ ثانیه برای اطمینان از این‌که چت و پیغام‌ها در میان پنجره‌ها و دیوایس‌های مختلف سینک شده‌اند."
+
+#: classes/configsectionmessages.php:85
+msgid "Enable Chat"
+msgstr "فعال کردن چت"
+
+#: classes/configsectionmessages.php:71 install/activate.php:132
+#: peepsomessages.php:411 peepsomessages.php:959 peepsomessages.php:980
+#: templates/messages/messages.php:27
+#: templates/messages/notification-popover-header.php:8
+msgid "Messages"
+msgstr "پیغام ها"
+
+#: classes/configsectionmessages.php:53
+msgid "Character limit per message"
+msgstr "محدودیت نویسه در هر پیام"
+
+#: classes/configsectionmessages.php:42 peepsomessages.php:1037
+msgid "Allow new messages only from friends"
+msgstr "اجازه‌ی دریافت پیغام‌های جدید فقط از جانب دوستان را بده"
+
+#: classes/configsectionmessages.php:27
+msgid "Enable \"read\" notifications"
+msgstr "فعال کردن \"اعلان های خواندن\""
+
+#: classes/chatajax.php:160
+msgid "Error creating conversation"
+msgstr "خطا در ایجاد گفتگو"

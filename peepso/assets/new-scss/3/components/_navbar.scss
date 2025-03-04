@@ -1,0 +1,128 @@
+.pso-navbar {
+    height: 50px;
+    font-size: var(--F-M);
+    background-color: var(--c-base);
+    border-radius: var(--R);
+}
+
+.pso-navbar__inner {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--G2);
+}
+
+.pso-navbar__tabs {
+    height: 100%;
+    display: flex;
+    align-items: stretch;
+    padding-inline-start: var(--G3);
+}
+
+.pso-navbar__tab {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline: var(--G2);
+    color: var(--c-contrast-slight);
+    transition: var(--TRANS);
+
+    > span {
+        &:after {
+            content: " ";
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 70%;
+            height: 3px;
+            border-top-left-radius: var(--R-S);
+            border-top-right-radius: var(--R-S);
+            background-color: var(--c-base-200);
+            opacity: 0;
+            transition: var(--TRANS);
+            transition-duration: .25s;
+        }
+    }
+
+    &:hover {
+        color: var(--c-contrast);
+
+        > span {
+            &:after {
+                opacity: 1;
+            }
+        }
+    }
+
+    &:active {
+        > span {
+            &:after {
+                opacity: 1;
+                background-color: var(--c-base-300);
+            }
+        }
+    }
+
+    &.pso-active {
+        color: var(--c-primary);
+
+        > span {
+            &:after {
+                background-color: var(--c-primary);
+                opacity: 1;
+            }
+        }
+    }
+}
+
+.pso-navbar__user {
+    display: flex;
+    align-items: center;
+    gap: var(--G1);
+    padding-inline-end: var(--G3);
+}
+
+.pso-navbar-user__toggle {
+    display: flex;
+    align-items: center;
+    gap: var(--G2);
+    padding-inline-end: var(--G2);
+    color: var(--c-contrast-light);
+    border-radius: var(--R-S);
+    transition: var(--TRANS);
+
+    > i {
+        color: var(--c-contrast-slight);
+        transition: var(--TRANS);
+    }
+
+    &:hover {
+        > i {
+            color: var(--c-contrast);
+        }
+
+        color: var(--c-contrast);
+        background-color: var(--c-base-200);
+    }
+}
+
+.pso-navbar__notifs {
+    display: flex;
+    align-items: center;
+    gap: var(--G1);
+}
+
+.pso-navbar__notif {
+    padding: var(--G2);
+    color: var(--c-contrast-slight);
+    border-radius: var(--R-S);
+    transition: var(--TRANS);
+
+    &:hover {
+        color: var(--c-contrast);
+        background-color: var(--c-base-200);
+    }
+}

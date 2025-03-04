@@ -1,0 +1,29 @@
+.pso-badge {
+    --c: var(--c-contrast-slight);
+    --bg: var(--c-base-200);
+
+    display: flex;
+    align-items: center;
+    padding-inline: var(--G1);
+    font-size: var(--F-XS);
+    font-weight: 500;
+    color: var(--c);
+    background-color: var(--bg);
+    border-radius: var(--R-S);
+}
+
+.pso-badge--float {
+    position: absolute;
+    z-index: 5;
+    top: calc(var(--G2) * -1);
+    right: calc(var(--G1) * -1);
+    height: 16px;
+    padding-inline: 4px;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.pso-badge--primary {
+    --c: rgba(0,0,0, .7);
+    --bg: var(--c-primary);
+}

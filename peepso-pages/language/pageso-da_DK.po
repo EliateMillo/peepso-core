@@ -1,0 +1,1797 @@
+# Translation of PeepSo - Pages in Danish
+# This file is distributed under the same license as the PeepSo - Pages package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: PeepSo - Pages\n"
+
+#. Plugin Name of the plugin/theme
+msgid "PeepSo Core: Pages (BETA)"
+msgstr ""
+
+#: pages.php:914
+msgid "Select a page"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:61
+msgid "Show owner"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PeepSo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Pages are used to represent businesses, causes, celebrities or brands to connect with their audience, share content, and engage with followers."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://PeepSo.com"
+msgstr ""
+
+#: templates/pages/postbox-interaction.php:23
+#: templates/pages/postbox-post-to.php:10
+msgid "A page"
+msgstr ""
+
+#: templates/pages/postbox-interaction.php:13
+msgid "My profile"
+msgstr ""
+
+#: templates/pages/pages.php:160 templates/pages/pages.php:167
+msgid "Loading"
+msgstr ""
+
+#: templates/pages/pages.php:150
+msgid "Page Categories"
+msgstr ""
+
+#: templates/pages/pages.php:112
+msgid "No filter"
+msgstr ""
+
+#: templates/pages/pages.php:103
+msgid "Descending"
+msgstr ""
+
+#: templates/pages/pages.php:94
+msgid "Recently added"
+msgstr ""
+
+#: templates/pages/pages.php:57
+msgid "Show filters"
+msgstr ""
+
+#: templates/pages/pages-item.php:27
+msgid "%d pending"
+msgstr ""
+
+#: templates/pages/pages-categories.php:18
+msgid "Show all"
+msgstr ""
+
+#: templates/pages/page.php:28
+msgid "Currently page is unpublished."
+msgstr ""
+
+#: templates/pages/page.php:23
+msgid "This is an announcement page, only the Owners and Managers can create new posts."
+msgstr ""
+
+#: templates/pages/page-settings.php:626
+msgid "User immediately becomes a new member after click \"join\" button"
+msgstr ""
+
+#: templates/pages/page-settings.php:623
+msgid "Automatically accept join requests"
+msgstr ""
+
+#: templates/pages/page-settings.php:575
+msgid "Owners & Managers will not receive notifications about new followers"
+msgstr ""
+
+#: templates/pages/page-settings.php:572
+msgid "Disable new followers notifications"
+msgstr ""
+
+#: templates/pages/page-settings.php:542 templates/pages/page-settings.php:553
+msgid "Nothing (default)"
+msgstr ""
+
+#: templates/pages/page-settings.php:538 templates/pages/page-settings.php:556
+msgid "Reactions and comments"
+msgstr ""
+
+#: templates/pages/page-settings.php:535 templates/pages/page-settings.php:555
+msgid "Comments"
+msgstr ""
+
+#: templates/pages/page-settings.php:532 templates/pages/page-settings.php:554
+msgid "Reactions"
+msgstr ""
+
+#: templates/pages/page-settings.php:505
+msgid "Has no effect if the setting above is set to \"yes\""
+msgstr ""
+
+#: templates/pages/page-settings.php:502
+msgid "Allowed non-follower actions"
+msgstr ""
+
+#: templates/pages/page-settings.php:451
+msgid "Disable likes/comments"
+msgstr ""
+
+#: templates/pages/page-settings.php:349
+msgid "Enable \"Invite\" button"
+msgstr ""
+
+#: templates/pages/page-settings.php:325 templates/pages/page-settings.php:334
+#: templates/pages/page-settings.php:376 templates/pages/page-settings.php:385
+#: templates/pages/page-settings.php:427 templates/pages/page-settings.php:436
+#: templates/pages/page-settings.php:478 templates/pages/page-settings.php:487
+#: templates/pages/page-settings.php:599 templates/pages/page-settings.php:608
+#: templates/pages/page-settings.php:650 templates/pages/page-settings.php:659
+msgid "No"
+msgstr ""
+
+#: templates/pages/page-settings.php:325 templates/pages/page-settings.php:333
+#: templates/pages/page-settings.php:376 templates/pages/page-settings.php:384
+#: templates/pages/page-settings.php:427 templates/pages/page-settings.php:435
+#: templates/pages/page-settings.php:478 templates/pages/page-settings.php:486
+#: templates/pages/page-settings.php:599 templates/pages/page-settings.php:607
+#: templates/pages/page-settings.php:650 templates/pages/page-settings.php:658
+msgid "Yes"
+msgstr ""
+
+#: templates/pages/page-settings.php:301
+msgid "Has no effect on Site Administrators"
+msgstr ""
+
+#: templates/pages/page-settings.php:297
+msgid "Enable \"Request To Like\" button"
+msgstr ""
+
+#: templates/pages/page-settings.php:296
+msgid "Enable \"like\" button"
+msgstr ""
+
+#: templates/pages/page-settings.php:199
+msgid "No rules"
+msgstr ""
+
+#: templates/pages/page-settings.php:167
+msgid "Page Rules"
+msgstr ""
+
+#: templates/pages/page-settings.php:145
+msgid "No description"
+msgstr ""
+
+#: templates/pages/page-settings.php:113
+msgid "Page Description"
+msgstr ""
+
+#: templates/pages/page-settings.php:100
+msgid "This field might be automatically adjusted  after editing."
+msgstr ""
+
+#: templates/pages/page-settings.php:100
+msgid "Letters, numbers and dashes are recommended, eg my-amazing-page-123."
+msgstr ""
+
+#: templates/pages/page-settings.php:68
+msgid "Page Slug"
+msgstr ""
+
+#: templates/pages/page-settings.php:27 templates/pages/page-settings.php:74
+#: templates/pages/page-settings.php:120 templates/pages/page-settings.php:174
+#: templates/pages/page-settings.php:233 templates/pages/page-settings.php:308
+#: templates/pages/page-settings.php:359 templates/pages/page-settings.php:410
+#: templates/pages/page-settings.php:461 templates/pages/page-settings.php:512
+#: templates/pages/page-settings.php:582 templates/pages/page-settings.php:633
+msgid "Edit"
+msgstr ""
+
+#: templates/pages/page-settings.php:20
+msgid "Page Name"
+msgstr ""
+
+#: templates/pages/page-members-tabs.php:30
+msgid "<span>Banned</span><span class=\"ps-tabs__count\">%s</span>"
+msgstr ""
+
+#: templates/pages/page-members-tabs.php:24
+msgid "<span>Invited</span><span class=\"ps-tabs__count ps-js-invited-count\" data-id=\"%d\">%s</span>"
+msgstr ""
+
+#: templates/pages/page-members-tabs.php:17
+msgid "Management"
+msgstr ""
+
+#: templates/pages/page-members-tabs.php:11
+msgid "All Followers"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:81
+msgid "Only users with avatars"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:78
+msgid "Avatars"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:70
+msgid "Followers I don't follow"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:69
+msgid "Followers I follow"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:68
+msgid "All followers"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:59
+msgid "Most liked"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:57
+msgid "Latest members"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:56
+msgid "Recently online"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:53 templates/pages/pages.php:92
+msgid "Sort"
+msgstr ""
+
+#: templates/pages/page-members-search-form.php:37
+msgid "Any"
+msgstr ""
+
+#: templates/pages/page-members-item.php:24
+#: templates/pages/page-members-item.php:31
+msgid "Moderator"
+msgstr ""
+
+#: templates/pages/page-members-item.php:23
+#: templates/pages/page-members-item.php:30
+msgid "Manager"
+msgstr ""
+
+#: templates/pages/page-members-item-actions.php:5
+msgid "Manage"
+msgstr ""
+
+#: templates/pages/page-header.php:188
+msgid "<span class=\"ps-js-pending-count\" data-id=\"%d\">%s</span> pending"
+msgstr ""
+
+#: templates/pages/page-header.php:185
+msgid "Followers"
+msgstr ""
+
+#: templates/pages/page-header.php:180
+msgid "Settings"
+msgstr ""
+
+#: templates/pages/page-header.php:155
+msgid "%s follower"
+msgid_plural "%s followers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/pages/page-header.php:79
+msgid "Upload"
+msgstr ""
+
+#: templates/pages/page-category.php:58 templates/pages/page-category.php:59
+#: templates/pages/page.php:61 templates/pages/page.php:62
+msgid "No posts found."
+msgstr ""
+
+#: templates/pages/page-category.php:39
+msgid "You currently can't post in any pages in this category."
+msgstr ""
+
+#: templates/pages/page-category-header.php:124
+#: templates/pages/page-header.php:173
+msgid "Stream"
+msgstr ""
+
+#: templates/pages/page-category-header.php:111
+msgid "with %d pages"
+msgstr ""
+
+#: templates/pages/page-category-header.php:109
+#: templates/pages/page-header.php:137
+msgid "Page category"
+msgstr ""
+
+#: templates/pages/page-category-header.php:94
+#: templates/pages/page-header.php:116
+msgid "Show details"
+msgstr ""
+
+#: templates/pages/page-category-header.php:68
+#: templates/pages/page-header.php:91
+msgid "Rotate right"
+msgstr ""
+
+#: templates/pages/page-category-header.php:64
+#: templates/pages/page-header.php:87
+msgid "Rotate left"
+msgstr ""
+
+#: templates/pages/page-category-header.php:60
+#: templates/pages/page-header.php:83
+msgid "Reposition"
+msgstr ""
+
+#: templates/pages/page-category-header.php:52
+#: templates/pages/page-header.php:75
+msgid "Change cover image"
+msgstr ""
+
+#: templates/pages/page-category-header.php:34
+#: templates/pages/page-header.php:51
+msgid "Change avatar"
+msgstr ""
+
+#: templates/pages/page-category-header.php:22
+#: templates/pages/page-header.php:39
+msgid "%s avatar"
+msgstr ""
+
+#: templates/pages/page-category-header.php:13
+#: templates/pages/page-header.php:30
+msgid "%s cover photo"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:58
+msgid "Invite users to page"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:58
+msgid "Add users to page"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:46
+msgid "Invite to Page"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:46
+msgid "Add to page"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:46
+msgid "Invited"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:46
+msgid "Added"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:22
+msgid "Please note: Users who are either banned, already invited, members or blocked receiving invitations to this page will not show in this listing."
+msgstr ""
+
+#: templates/pages/dialog-invite.php:17 templates/pages/page-category.php:60
+#: templates/pages/page.php:63
+msgid "Nothing more to show."
+msgstr ""
+
+#: templates/pages/dialog-invite.php:16
+msgid "Load more"
+msgstr ""
+
+#: templates/pages/dialog-invite.php:10
+#: templates/pages/page-members-search-form.php:25 templates/pages/pages.php:56
+#: templates/pages/postbox-interaction.php:29
+#: templates/pages/postbox-post-to.php:16
+msgid "Start typing to search..."
+msgstr ""
+
+#: templates/pages/dialog-create.php:79 templates/pages/dialog-create.php:86
+#: templates/pages/page-category-pages.php:19 templates/pages/pages.php:43
+#: templates/pages/profile-pages.php:21
+msgid "Create Page"
+msgstr ""
+
+#: templates/pages/dialog-create.php:43 templates/pages/page-settings.php:226
+#: templates/pages/pages.php:110
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/pages/dialog-create.php:21 templates/pages/page-settings.php:52
+#: templates/pages/page-settings.php:153 templates/pages/page-settings.php:207
+msgid "Characters left"
+msgstr ""
+
+#: templates/pages/dialog-create.php:20
+msgid "Enter your page's description..."
+msgstr ""
+
+#: templates/pages/dialog-create.php:8
+msgid "Enter your page's name..."
+msgstr ""
+
+#: templates/pages/dialog-create.php:4
+msgid "Name"
+msgstr ""
+
+#: templates/pages/dialog-category-cover-remove.php:7
+#: templates/pages/dialog-cover-remove.php:7
+msgid "Remove Cover Image"
+msgstr ""
+
+#: templates/pages/dialog-category-cover-remove.php:1
+#: templates/pages/dialog-cover-remove.php:1
+msgid "Are you sure want to remove this cover image?"
+msgstr ""
+
+#: templates/pages/dialog-category-avatar.php:95
+msgid "Change Page Category Avatar"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:98
+#: templates/pages/dialog-category-avatar.php:98
+msgid "Done"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:95
+msgid "Change Page Avatar"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:74
+#: templates/pages/dialog-category-avatar.php:74
+msgid "This is how <strong>%s</strong> avatar will appear throughout the entire community."
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:65 templates/pages/dialog-avatar.php:68
+#: templates/pages/dialog-category-avatar.php:65
+#: templates/pages/dialog-category-avatar.php:68
+msgid "Avatar Preview"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:60
+#: templates/pages/dialog-category-avatar.php:60
+msgid "No avatar uploaded. Use the button above to select and upload one."
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:52
+#: templates/pages/dialog-category-avatar.php:52
+#: templates/pages/dialog-category-cover-remove.php:14
+#: templates/pages/dialog-cover-remove.php:14
+msgid "Confirm"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:35
+#: templates/pages/dialog-category-avatar.php:35
+msgid "Crop"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:24
+#: templates/pages/dialog-category-avatar.php:24
+msgid "Automatically Generated. (Maximum width: 160px)"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:20
+#: templates/pages/dialog-category-avatar.php:20
+msgid "Uploaded Photo"
+msgstr ""
+
+#: templates/pages/dialog-avatar.php:13
+#: templates/pages/dialog-category-avatar.php:13
+#: templates/pages/page-category-header.php:56
+msgid "Upload new"
+msgstr ""
+
+#: templates/admin/pages.php:20
+msgid "Are you sure?"
+msgstr ""
+
+#: templates/admin/pages.php:11
+msgid "Search Pages"
+msgstr ""
+
+#: templates/admin/page_categories_button.php:18
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/page_categories_button.php:12
+#: templates/admin/page_categories_button.php:25
+msgid "Page categories are currently disabled. You can enable them in PeepSo Config -> Pages"
+msgstr ""
+
+#: templates/admin/page_categories_button.php:7
+msgid "Collapse All"
+msgstr ""
+
+#: templates/admin/page_categories_button.php:4
+msgid "Expand All"
+msgstr ""
+
+#: templates/admin/page_categories.php:102
+msgid "Generate"
+msgstr ""
+
+#: templates/admin/page_categories.php:101
+msgid "URL slug"
+msgstr ""
+
+#: templates/admin/page_categories.php:55
+#: templates/pages/page-category-header.php:80
+#: templates/pages/page-header.php:103 templates/pages/page-settings.php:36
+#: templates/pages/page-settings.php:83 templates/pages/page-settings.php:128
+#: templates/pages/page-settings.php:182 templates/pages/page-settings.php:241
+#: templates/pages/page-settings.php:317 templates/pages/page-settings.php:368
+#: templates/pages/page-settings.php:419 templates/pages/page-settings.php:470
+#: templates/pages/page-settings.php:521 templates/pages/page-settings.php:591
+#: templates/pages/page-settings.php:642
+msgid "Save"
+msgstr ""
+
+#: templates/admin/page_categories.php:20
+msgid "no name"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:126
+#: templates/pages/pages.php:64
+msgid "Any of the words"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:118
+#: templates/pages/pages.php:63
+msgid "Exact phrase"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:111
+msgid "Type to search"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:106
+msgid "Search: "
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:103
+#: templates/activity/activity-stream-filters-pages.php:132
+msgid "Search"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:69
+msgid "Apply"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:68
+#: templates/activity/activity-stream-filters-pages.php:131
+#: templates/admin/page_categories.php:54 templates/pages/dialog-avatar.php:48
+#: templates/pages/dialog-category-avatar.php:48
+#: templates/pages/dialog-category-cover-remove.php:10
+#: templates/pages/dialog-cover-remove.php:10
+#: templates/pages/dialog-create.php:82
+#: templates/pages/page-category-header.php:79
+#: templates/pages/page-header.php:102 templates/pages/page-settings.php:32
+#: templates/pages/page-settings.php:79 templates/pages/page-settings.php:125
+#: templates/pages/page-settings.php:179 templates/pages/page-settings.php:238
+#: templates/pages/page-settings.php:313 templates/pages/page-settings.php:364
+#: templates/pages/page-settings.php:415 templates/pages/page-settings.php:466
+#: templates/pages/page-settings.php:517 templates/pages/page-settings.php:587
+#: templates/pages/page-settings.php:638
+msgid "Cancel"
+msgstr ""
+
+#: templates/activity/activity-stream-filters-pages.php:28
+msgid "Filters"
+msgstr ""
+
+#: pages.php:3201
+msgid "Get it now!"
+msgstr ""
+
+#: pages.php:3199
+msgid "The %s plugin requires the PeepSo plugin to be installed and activated."
+msgstr ""
+
+#: pages.php:3152
+msgid "page cover photo"
+msgstr ""
+
+#: pages.php:3147
+msgid "page avatar"
+msgstr ""
+
+#: pages.php:3102
+msgid "No result found."
+msgstr ""
+
+#: pages.php:3004
+msgid "Are you sure you want to change the page privacy?"
+msgstr ""
+
+#: pages.php:3003
+msgid "Are you sure you want to change the page URL?"
+msgstr ""
+
+#: pages.php:3002 pages.php:3003 pages.php:3004
+msgid "All page members will be notified."
+msgstr ""
+
+#: pages.php:3002
+msgid "Are you sure you want to change the page name?"
+msgstr ""
+
+#: pages.php:3001 templates/pages/pages-item.php:25
+msgid "followers"
+msgstr ""
+
+#: pages.php:3000 templates/pages/pages-item.php:25
+msgid "follower"
+msgstr ""
+
+#: pages.php:2999
+msgid "Less"
+msgstr ""
+
+#: pages.php:2998 templates/pages/page-category-header.php:154
+#: templates/pages/page-category-header.php:157
+#: templates/pages/page-header.php:235 templates/pages/pages-item.php:62
+msgid "More"
+msgstr ""
+
+#: pages.php:2877
+msgid "changed page privacy to %s"
+msgstr ""
+
+#: pages.php:2853
+msgid "renamed a page you like"
+msgstr ""
+
+#: pages.php:2802
+msgid "accepted you as a page member"
+msgstr ""
+
+#: pages.php:2756
+msgid "requested to join your page"
+msgstr ""
+
+#: pages.php:2749
+msgid "and %s%s more users%s requested to join your page"
+msgstr ""
+
+#: pages.php:2742
+msgid "and %s%s%s requested to join your page"
+msgstr ""
+
+#: pages.php:2688
+msgid "accepted your page invitation"
+msgstr ""
+
+#: pages.php:2646
+msgid "liked your page"
+msgstr ""
+
+#: pages.php:2544
+msgid " added %1$d photo to the album: <a href=\"%3$s\">%2$s</a>"
+msgid_plural " added %1$d photos to the album: <a href=\"%3$s\">%2$s</a>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages.php:2524 pages.php:2554
+msgid " updated page cover"
+msgstr ""
+
+#: pages.php:2514
+msgid " updated page avatar"
+msgstr ""
+
+#: pages.php:1837 pages.php:1839
+msgid "liked this page"
+msgstr ""
+
+#: pages.php:1804 pages.php:1806
+msgid "likes"
+msgstr ""
+
+#: pages.php:1785
+msgid "You are not a follower of this page"
+msgstr ""
+
+#: pages.php:1041
+msgid "pages"
+msgstr ""
+
+#: pages.php:1010
+msgctxt "Profile link"
+msgid "Pages"
+msgstr ""
+
+#: pages.php:985
+msgctxt "Community link"
+msgid "Pages"
+msgstr ""
+
+#: pages.php:882
+msgid "Post to"
+msgstr ""
+
+#: pages.php:771
+msgid "Page Stream Photos"
+msgstr ""
+
+#: pages.php:767
+msgid "Page Covers"
+msgstr ""
+
+#: pages.php:763
+msgid "Page Avatars"
+msgstr ""
+
+#: pages.php:742
+msgid "This will be sent to a page owner when another user comments on the cover"
+msgstr ""
+
+#: pages.php:741
+msgid "User Comment Page Cover"
+msgstr ""
+
+#: pages.php:737
+msgid "This will be sent to a page owner when another user comments on the avatar"
+msgstr ""
+
+#: pages.php:736
+msgid "User Comment Page Avatar"
+msgstr ""
+
+#: pages.php:731
+msgid "Notify Administrators when a new new page is created"
+msgstr ""
+
+#: pages.php:730
+msgid "New Page Created"
+msgstr ""
+
+#: pages.php:726
+msgid "Notify users about new posts in pages."
+msgstr ""
+
+#: pages.php:725
+msgid "New Post In Page"
+msgstr ""
+
+#: pages.php:713
+msgid "%sLike the page%s to react to or comment on this post."
+msgstr ""
+
+#: pages.php:627
+msgid "Page subscriptions"
+msgstr ""
+
+#: pages.php:586
+msgid "{sitename} - New Page Created"
+msgstr ""
+
+#: pages.php:532
+msgid "%s posted in %s"
+msgstr ""
+
+#: pages.php:525
+msgid "%s posted new update"
+msgstr ""
+
+#: pages.php:486
+msgid "posted in %s"
+msgstr ""
+
+#: pages.php:482
+msgid "posted new update"
+msgstr ""
+
+#: pages.php:259 templates/pages/page-header.php:137
+msgid "Page categories"
+msgstr ""
+
+#: pages.php:240
+msgid "PeepSo Pages"
+msgstr ""
+
+#: classes/shortcodes/pagesshortcode.php:188 pages.php:3057
+msgid "The file size you uploaded is too big. The maximum file size is %s."
+msgstr ""
+
+#: classes/shortcodes/pagesshortcode.php:186 pages.php:3055
+msgid "The file type you uploaded is not allowed. Only JPEG, PNG, and WEBP allowed."
+msgstr ""
+
+#: classes/shortcodes/pagesshortcode.php:130
+msgctxt "Page listing"
+msgid "PeepSo"
+msgstr ""
+
+#: classes/shortcodes/pagesshortcode.php:126
+msgid "Displays the Pages listing and single Page view."
+msgstr ""
+
+#: classes/shortcodes/pagesshortcode.php:114
+#: classes/shortcodes/pagesshortcode.php:130 install/activate.php:40
+#: pages.php:237 pages.php:250 pages.php:1025
+#: templates/pages/page-category-header.php:130 templates/pages/pages.php:149
+msgid "Pages"
+msgstr ""
+
+#: classes/models/pageuser.php:648
+msgid "Reject"
+msgstr ""
+
+#: classes/models/pageuser.php:642
+msgid "Approve"
+msgstr ""
+
+#: classes/models/pageuser.php:633
+msgid "Cancel Invitation"
+msgstr ""
+
+#: classes/models/pageuser.php:623
+msgid "Unban"
+msgstr ""
+
+#: classes/models/pageuser.php:620
+msgid "Are you sure you want to unban %s and restore as a regular Page Member?"
+msgstr ""
+
+#: classes/models/pageuser.php:597
+msgid "Ban"
+msgstr ""
+
+#: classes/models/pageuser.php:593
+msgid "This user will be unable to join or be invited."
+msgstr ""
+
+#: classes/models/pageuser.php:592
+msgid "Are you sure you want to ban this user?"
+msgstr ""
+
+#: classes/models/pageuser.php:575
+msgid "To join again you will have to be approved or invited."
+msgstr ""
+
+#: classes/models/pageuser.php:572
+msgid "Are you sure you want to leave this page?"
+msgstr ""
+
+#: classes/models/pageuser.php:570
+msgid "Leave"
+msgstr ""
+
+#: classes/models/pageuser.php:567
+msgid "Remove"
+msgstr ""
+
+#: classes/models/pageuser.php:564
+msgid "To join again the user will have to be invited and/or approved."
+msgstr ""
+
+#: classes/models/pageuser.php:561
+msgid "Are you sure you want to remove this user?"
+msgstr ""
+
+#: classes/models/pageuser.php:547
+msgid "Turn into regular member"
+msgstr ""
+
+#: classes/models/pageuser.php:544
+msgid "Are you sure you want to make %s a regular Page Member?"
+msgstr ""
+
+#: classes/models/pageuser.php:534
+msgid "Turn into Moderator"
+msgstr ""
+
+#: classes/models/pageuser.php:531
+msgid "Are you sure you want to make %s a Page Moderator?"
+msgstr ""
+
+#: classes/models/pageuser.php:521
+msgid "Turn into Manager"
+msgstr ""
+
+#: classes/models/pageuser.php:518
+msgid "Are you sure you want to make %s a Page Manager?"
+msgstr ""
+
+#: classes/models/pageuser.php:509
+msgid "Transfer ownership"
+msgstr ""
+
+#: classes/models/pageuser.php:506
+msgid "Are you sure you want to make %s a new Page Owner? There can be only one owner in the page."
+msgstr ""
+
+#: classes/models/pageuser.php:503
+msgid "yourself"
+msgstr ""
+
+#: classes/models/pageuser.php:465
+msgid "To be able to leave, you need to transfer ownership to another user first."
+msgstr ""
+
+#: classes/models/pageuser.php:465
+msgid "You can't leave this page."
+msgstr ""
+
+#: classes/models/pageuser.php:463 pages.php:1783
+msgid "You are the page %s"
+msgstr ""
+
+#: classes/models/pageuser.php:444
+msgid "You are a page %s"
+msgstr ""
+
+#: classes/models/pageuser.php:434
+msgid "Unlike"
+msgstr ""
+
+#: classes/models/pageuser.php:428
+msgid "To like again a member will have to be invited."
+msgstr ""
+
+#: classes/models/pageuser.php:424
+msgid "To like again you will have to be approved or invited."
+msgstr ""
+
+#: classes/models/pageuser.php:421
+msgid "Are you sure you want to unlike this page?"
+msgstr ""
+
+#: classes/models/pageuser.php:411
+msgid "Request To Join"
+msgstr ""
+
+#: classes/models/pageuser.php:404
+msgid "Like"
+msgstr ""
+
+#: classes/models/pageuser.php:397
+msgid "Cancel Request To Join"
+msgstr ""
+
+#: classes/models/pageuser.php:391
+msgid "You need to be approved"
+msgstr ""
+
+#: classes/models/pageuser.php:390
+msgid "Pending approval"
+msgstr ""
+
+#: classes/models/pageuser.php:383
+msgid "Reject invite"
+msgstr ""
+
+#: classes/models/pageuser.php:377
+msgid "Accept invite"
+msgstr ""
+
+#: classes/models/pageuser.php:358
+msgid "Add users"
+msgstr ""
+
+#: classes/models/pageuser.php:354
+msgid "Invite"
+msgstr ""
+
+#: classes/models/pageuser.php:137
+msgid "As community administrator, you have the same control as page owner."
+msgstr ""
+
+#: classes/models/pageuser.php:120
+msgid "As an owner you can manage all aspects of the page and its content"
+msgstr ""
+
+#: classes/models/pageuser.php:119
+msgid "owner"
+msgstr ""
+
+#: classes/models/pageuser.php:115
+msgid "As a manager you can manage the page followers and edit or delete all posts and comments in this page"
+msgstr ""
+
+#: classes/models/pageuser.php:114
+msgid "manager"
+msgstr ""
+
+#: classes/models/pageuser.php:110
+msgid "As a moderator you can edit or delete all posts and comments in this page"
+msgstr ""
+
+#: classes/models/pageuser.php:109
+msgid "moderator"
+msgstr ""
+
+#: classes/models/pageuser.php:103
+msgid "liked"
+msgstr ""
+
+#: classes/models/pageprivacy.php:35
+msgid "Non-members can't see the page at all."
+msgstr ""
+
+#: classes/models/pageprivacy.php:35
+msgid "Users need to be invited."
+msgstr ""
+
+#: classes/models/pageprivacy.php:34
+msgid "secret"
+msgstr ""
+
+#: classes/models/pageprivacy.php:33
+msgid "Secret"
+msgstr ""
+
+#: classes/models/pageprivacy.php:28
+msgid "Non-members can only see the page page."
+msgstr ""
+
+#: classes/models/pageprivacy.php:28
+msgid "Users need to be invited or request the page membership."
+msgstr ""
+
+#: classes/models/pageprivacy.php:27
+msgid "private"
+msgstr ""
+
+#: classes/models/pageprivacy.php:26
+msgid "Private"
+msgstr ""
+
+#: classes/models/pageprivacy.php:20
+msgid "Non-members can see the page content, but they can't post."
+msgstr ""
+
+#: classes/models/pageprivacy.php:19
+msgid "open"
+msgstr ""
+
+#: classes/models/pageprivacy.php:18
+msgid "Open"
+msgstr ""
+
+#: classes/models/pagefollower.php:218
+msgid "Receive emails about new posts in this page"
+msgstr ""
+
+#: classes/models/pagefollower.php:215 pages.php:1799
+msgid "Receive emails"
+msgstr ""
+
+#: classes/models/pagefollower.php:211
+msgid "Be notified about new posts in this page"
+msgstr ""
+
+#: classes/models/pagefollower.php:208 pages.php:1795
+msgid "Be notified"
+msgstr ""
+
+#: classes/models/pagefollower.php:204
+msgid "Show posts from this page in \"my following\" stream"
+msgstr ""
+
+#: classes/models/pagefollower.php:201 pages.php:1791
+msgid "Follow"
+msgstr ""
+
+#: classes/models/pagefollower.php:190
+msgid "Not receiving notifications"
+msgstr ""
+
+#: classes/models/pagefollower.php:186
+msgid "Receiving notifications"
+msgstr ""
+
+#: classes/models/pagefollower.php:176
+msgid "Not following"
+msgstr ""
+
+#: classes/models/pagefollower.php:173
+#: templates/pages/page-members-search-form.php:66
+msgid "Following"
+msgstr ""
+
+#: classes/models/pagecategory.php:79 pages.php:3005
+#: templates/pages/pages.php:128
+msgid "Uncategorized"
+msgstr ""
+
+#: classes/models/page.php:416
+msgid "This page name cannot be used"
+msgstr ""
+
+#: classes/models/page.php:399
+msgid "Maximum length is %s"
+msgstr ""
+
+#: classes/models/page.php:395
+msgid "Minimum length is %s characters"
+msgstr ""
+
+#: classes/models/page.php:391
+msgid "This field can't be a number"
+msgstr ""
+
+#: classes/models/page.php:382 classes/models/page.php:386
+msgid "This field is required"
+msgstr ""
+
+#: classes/api/pageusersajax.php:237 classes/api/pageusersajax.php:242
+msgid "No users found."
+msgstr ""
+
+#: classes/api/pageuserajax.php:266
+msgid "Invalid role"
+msgstr ""
+
+#: classes/api/pageuserajax.php:219
+msgid "Unable to add this user"
+msgstr ""
+
+#: classes/api/pageuserajax.php:215
+msgid "added you to a page"
+msgstr ""
+
+#: classes/api/pageuserajax.php:206
+msgid "Unable to invite this user"
+msgstr ""
+
+#: classes/api/pageuserajax.php:204
+msgid "invited you to like a page"
+msgstr ""
+
+#: classes/api/pageuserajax.php:187
+msgid "You are not allowed to manage members"
+msgstr ""
+
+#: classes/api/pageuserajax.php:138
+msgid "Are you sure you want to block all future invites to this page?"
+msgstr ""
+
+#: classes/api/pageuserajax.php:137
+msgid "Block invites"
+msgstr ""
+
+#: classes/api/pageuserajax.php:128
+msgid "Unable to leave this page"
+msgstr ""
+
+#: classes/api/pageuserajax.php:108
+msgid "Unable to cancel request to join this page"
+msgstr ""
+
+#: classes/api/pageuserajax.php:63 classes/api/pageuserajax.php:87
+msgid "Unable to join this page"
+msgstr ""
+
+#: classes/api/pagesajax.php:123
+msgid "No pages found"
+msgstr ""
+
+#: classes/api/pagesajax.php:120
+msgid "%s is not following any pages yet"
+msgstr ""
+
+#: classes/api/pagecategoryajax.php:13
+msgid "New Category"
+msgstr ""
+
+#: classes/api/pagecategoryajax.php:9 classes/api/pagecategoryajax.php:52
+#: classes/api/pagecategoryajax.php:71 classes/api/pagecategoryajax.php:101
+#: classes/api/pagecategoryajax.php:136 classes/api/pagecategoryajax.php:161
+msgid "Insufficient permissions."
+msgstr ""
+
+#: classes/api/pagecategoriesajax.php:53
+msgid "No Categories Found."
+msgstr ""
+
+#: classes/api/pageajax.php:751 classes/api/pagecategoryajax.php:506
+msgid "Changes saved."
+msgstr ""
+
+#: classes/api/pageajax.php:610 classes/api/pageajax.php:716
+#: classes/api/pagecategoryajax.php:372 classes/api/pagecategoryajax.php:476
+msgid "No file uploaded."
+msgstr ""
+
+#: classes/api/pageajax.php:599 classes/api/pagecategoryajax.php:361
+msgid "Minimum avatar resolution is %d x %d pixels."
+msgstr ""
+
+#: classes/api/pageajax.php:576 classes/api/pageajax.php:699
+#: classes/api/pagecategoryajax.php:338 classes/api/pagecategoryajax.php:458
+msgid "The file type you uploaded is not allowed."
+msgstr ""
+
+#: classes/api/pageajax.php:570 classes/api/pageajax.php:705
+#: classes/api/pagecategoryajax.php:332 classes/api/pagecategoryajax.php:464
+msgid "The file you uploaded is either missing or too large."
+msgstr ""
+
+#: classes/api/pageajax.php:554 classes/api/pageajax.php:641
+#: classes/api/pageajax.php:721 classes/api/pageajax.php:755
+#: classes/api/pagecategoryajax.php:316 classes/api/pagecategoryajax.php:402
+#: classes/api/pagecategoryajax.php:481
+msgid "You do not have enough permissions."
+msgstr ""
+
+#: classes/api/pageajax.php:426 classes/api/pageajax.php:494
+#: classes/api/pagecategoryajax.php:190 classes/api/pagecategoryajax.php:257
+msgid "Invalid access"
+msgstr ""
+
+#: classes/api/pageajax.php:404
+msgid "Page custom input saved."
+msgstr ""
+
+#: classes/api/pageajax.php:383 classes/api/pageajax.php:407
+msgid "You are not authorized to change this page categories."
+msgstr ""
+
+#: classes/api/pageajax.php:378
+msgid "Page categories saved."
+msgstr ""
+
+#: classes/api/pageajax.php:340
+msgid "You are not authorized to change this page description."
+msgstr ""
+
+#: classes/api/pageajax.php:337
+msgid "Page description saved."
+msgstr ""
+
+#: classes/api/pageajax.php:294
+msgid "You are not authorized to change this page name."
+msgstr ""
+
+#: classes/api/pageajax.php:290
+msgid "Page privacy changed."
+msgstr ""
+
+#: classes/api/pageajax.php:275
+msgid "Invalid Page Privacy"
+msgstr ""
+
+#: classes/api/pageajax.php:245
+msgid "You are not authorized to manage this page's settings"
+msgstr ""
+
+#: classes/api/pageajax.php:182 classes/api/pageajax.php:242
+msgid "Page name saved."
+msgstr ""
+
+#: classes/api/pageajax.php:139 classes/api/pageajax.php:200
+#: classes/api/pageajax.php:260 classes/api/pageajax.php:309
+#: classes/api/pageajax.php:355 classes/api/pageajax.php:398
+#: classes/api/pageajax.php:544 classes/api/pageajax.php:627
+#: classes/api/pageajax.php:678 classes/api/pageajax.php:737
+#: classes/api/pagecategoryajax.php:307 classes/api/pagecategoryajax.php:389
+#: classes/api/pagecategoryajax.php:438 classes/api/pagecategoryajax.php:495
+msgid "Request could not be verified."
+msgstr ""
+
+#: classes/api/pageajax.php:124 classes/api/pageajax.php:185
+#: classes/api/pageuserajax.php:273
+msgid "Insufficient permissions"
+msgstr ""
+
+#: classes/api/pageajax.php:121
+msgid "Setting saved"
+msgstr ""
+
+#: classes/api/pageajax.php:94
+msgid "Request could not be verified"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:328
+msgid "Show"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:310
+msgid "Unpublished"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:308 templates/admin/page_categories.php:80
+msgid "Published"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:305
+msgid "All"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:279
+msgid "page"
+msgid_plural "pages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/admin/pageslisttable.php:270
+msgid "deleted"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:251
+msgid "updated"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:243
+msgid "unpublished your page"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:236
+msgid "published your page"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:200 templates/pages/dialog-avatar.php:8
+#: templates/pages/dialog-category-avatar.php:8
+#: templates/pages/page-category-header.php:72
+#: templates/pages/page-header.php:95
+msgid "Delete"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:199
+msgid "Unpublish"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:198
+msgid "Publish"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:173
+msgid "unpublished"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:173
+msgid "published"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:128
+msgid "Privacy"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:116
+msgid "Read more"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:62
+msgid "Members"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:61
+msgid "Status"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:60 templates/pages/page-members-item.php:22
+#: templates/pages/page-members-item.php:29
+msgid "Owner"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:58 templates/admin/page_categories.php:120
+#: templates/pages/dialog-create.php:16
+msgid "Description"
+msgstr ""
+
+#: classes/admin/pageslisttable.php:57
+msgid "Page"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:522
+msgid "Advanced"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:515
+msgid "Allow pages to override this setting"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:506
+#: templates/pages/page-settings.php:352 templates/pages/page-settings.php:403
+#: templates/pages/page-settings.php:454
+msgid "Has no effect on Owner, Managers and Site Administrators"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:501
+#: templates/pages/page-settings.php:400
+msgid "Followers tab"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:486
+msgid "Email Admins when a new Page is created"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:483
+msgid "Users with Administrator role will receive an email when a new Page is created"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:467
+msgid "Force unique names"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:464
+msgid "Enabled: PeepSo will disallow creating Pages with the same names. Runs a risk of exposing the existence of secret Pages to non-members."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:459
+msgid "Allow Page managers to pin posts"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:456
+msgid "Disabled: only comunity/site administrators will be allowed to pin posts"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:456
+msgid "Enabled: Page management will be allowed to pin posts."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:452
+msgid "Use \"pinned\" style only in Page context"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:449
+msgid "Disabled: pinned page posts will always have the \"pinned\" style"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:449
+msgid "Enabled: pinned Page posts will only have a \"pinned\" style when viewed in the Page context and single post view"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:445
+msgid "Pin to top only inside Pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:442
+msgid "Disabled: pinned Page posts will be also pinned to top on author profile and main activity"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:442
+msgid "Enabled: pinned Page posts will be pinned to top only in Page views"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:434
+msgid "Editing Page files"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:423
+msgid "Enabled: Page moderators can moderate files in their pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:415
+msgid "Enabled: Page managers can moderate files in their pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:407
+#: classes/admin/configsectionpages.php:415
+#: classes/admin/configsectionpages.php:423
+msgid "Disabled: only admin can moderate files"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:407
+msgid "Enabled: Page owners can moderate files in their pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:400
+msgid "Editing Page posts and comments"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:393
+#: classes/admin/configsectionpages.php:427
+msgid "By Page moderators"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:389
+msgid "Enabled: Page moderators can edit posts and comments in respective pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:385
+#: classes/admin/configsectionpages.php:419
+msgid "By Page managers"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:381
+msgid "Enabled: Page managers can edit posts and comments in respective pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:377
+#: classes/admin/configsectionpages.php:411
+msgid "By Page owners"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:373
+#: classes/admin/configsectionpages.php:381
+#: classes/admin/configsectionpages.php:389
+msgid "Disabled: only admin can edit posts and comments"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:373
+msgid "Enabled: Page owners can edit posts and comments in respective pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:366 classes/admin/pageslisttable.php:59
+msgid "Categories"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:359
+msgid "Show Page count"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:356
+msgid "The count will not be accurate if a category contains unpublished or secret pages."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:350
+msgid "Hide empty categories"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:347
+msgid "Hide categories which don't have any Pages assigned to them."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:341
+msgid "Expand all categories"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:338
+msgid "Disabled: only the first category shows a preview of the Page listing."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:332
+msgid "Each category loads"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:328
+msgid "Only this many Pages will show in each category before offering a link to the full category listing."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:319
+msgid "%d pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:306
+msgid "Category listing"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:300
+msgid "Each ajax call loads"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:296
+msgid "Only this many categories will show in each ajax call in category listing."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:293
+#: classes/admin/configsectionpages.php:322
+msgid "default"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:290
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/admin/configsectionpages.php:280
+msgid "Allowed categories per Page"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:267
+msgid "Allow multiple categories per Page"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:264
+msgid "Users will be able to assign a Page to multiple categories"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:257
+msgid "Set Page categories as default view."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:249
+msgid "Enable Page categories"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:246
+msgid "Users will be able to assign Pages to categories."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:238
+msgid "New members"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:231
+msgid "Automatically subscribe new followers to emails"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:228
+msgid "Enabled: new Page followers will automatically be subscribed to receive new posts email notifications"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:222
+msgid "Automatically subscribe new followers to notifications"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:219
+msgid "Enabled: new Page followers will automatically be subscribed to receive new posts notifications (on-site)"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:213
+msgid "Notifications"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:207
+msgid "Action text (on other streams)"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:204
+msgid "For example \"liked a page:\". Leave empty for default. Applies to old posts too."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:200
+msgid "Action text (on Page stream)"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:197
+msgid "For example \"liked this page\". Leave empty for default. Applies to old posts too."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:193
+#: classes/admin/configsectionpages.php:509
+msgid "Enabled"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:190
+msgid "Enabled: automatically post on user's stream when they like a page. These posts are deleted automatically when the user leaves or is removed/banned from the page."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:185
+msgid "Post to stream when liked"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:177
+msgid "General"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:142
+msgid "Enable Page creation"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:139
+msgid "Disabled: only site admins can create pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:139
+msgid "Enabled: all site members can create pages"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:131
+msgid "Page listings"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:125
+msgid "Default list style"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:122
+msgid "Controls the default view. If user changes the view, their preference becomes \"sticky\""
+msgstr ""
+
+#: classes/admin/configsectionpages.php:119
+#: templates/pages/page-category-pages.php:12 templates/pages/pages.php:34
+#: templates/pages/profile-pages.php:15
+msgid "List"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:118
+#: templates/pages/page-category-pages.php:11 templates/pages/pages.php:33
+#: templates/pages/profile-pages.php:14
+msgid "Grid"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:104
+msgid "Default sort direction"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:97 templates/pages/pages.php:104
+msgid "Ascending"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:96
+msgid "Descending (default)"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:91
+msgid "Default sort"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:85 templates/pages/pages.php:96
+msgid "Followers count"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:84
+#: templates/pages/page-members-search-form.php:55 templates/pages/pages.php:95
+msgid "Alphabetical"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:83
+msgid "Recently added (default)"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:78
+msgid "Allow guest access"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:75
+msgid "Show or hide the Pages listing from visitors who are not logged in"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:70
+msgid "Show creation date"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:67
+msgid "Show or hide the Pages creation dates in the Pages listing"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:58
+msgid "Show or hide the Pages owner in Page listing"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:51
+msgid "SEO"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:45
+msgid "Page slug changes"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:42
+msgid "Option 3: the Page owner can change the slug manually."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:42
+msgid "Option 2: new Page slug will be generated upon Page name change."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:42
+msgid "Option 1: Page slug will stay the same as the original Page name."
+msgstr ""
+
+#: classes/admin/configsectionpages.php:38
+msgid "by the Page owner"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:37
+msgid "when Page name is changed"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:36
+msgid "never"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:31
+msgid "Use slugs in Page URLs"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:28
+msgid "Disabled: /pages/1234/"
+msgstr ""
+
+#: classes/admin/configsectionpages.php:28
+msgid "Enabled: /pages/my-amazing-page/"
+msgstr ""
